@@ -1,0 +1,18 @@
+{
+  "name": "decentralid-ssi",
+  "version": "1.0.0",
+  "description": "DecentralID - Self-Sovereign Identity for Academic Credential Verification",
+  "scripts": {
+    "dev": "npm --prefix backend run dev",
+    "start": "npm --prefix backend start",
+    "seed": "npm --prefix backend run seed",
+    "frontend": "node server.js"
+  },
+  "keywords": [
+    "did",
+    "ssi",
+    "verifiable-credentials",
+    "academic-credentials"
+  ],
+  "license": "MIT"
+}

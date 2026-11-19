@@ -1,0 +1,7 @@
+# Add backend directory to gitignore
+backend/node_modules/
+node_modules/
+backend/.env
+backend/atlas-credentials.env
+*.env
+backend/package-lock.json
